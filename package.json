@@ -7,7 +7,7 @@
     "start": "node app.js",
     "debug": "nodemon app.js"
   },
-  "author": "Akansh Sirohi",
+  "author": "Umair Ashraf",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
